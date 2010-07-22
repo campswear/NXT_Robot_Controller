@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position2d
+END
+PlayerPosition2dGeom.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position2d/PlayerPosition2dGeom.java
+END
+PlayerPosition2dResetOdomConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position2d/PlayerPosition2dResetOdomConfig.java
+END
+PlayerPosition2dCmdCar.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position2d/PlayerPosition2dCmdCar.java
+END
+PlayerPosition2dData.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position2d/PlayerPosition2dData.java
+END
+PlayerPosition2dPositionPidReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position2d/PlayerPosition2dPositionPidReq.java
+END
+PlayerPosition2dVelocityModeConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position2d/PlayerPosition2dVelocityModeConfig.java
+END
+PlayerPosition2dCmdVel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position2d/PlayerPosition2dCmdVel.java
+END
+PlayerPosition2dSpeedProfReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position2d/PlayerPosition2dSpeedProfReq.java
+END
+PlayerPosition2dPositionModeReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position2d/PlayerPosition2dPositionModeReq.java
+END
+PlayerPosition2dPowerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position2d/PlayerPosition2dPowerConfig.java
+END
+PlayerPosition2dSetOdomReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position2d/PlayerPosition2dSetOdomReq.java
+END
+PlayerPosition2dCmdPos.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position2d/PlayerPosition2dCmdPos.java
+END
+PlayerPosition2dSpeedPidReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position2d/PlayerPosition2dSpeedPidReq.java
+END

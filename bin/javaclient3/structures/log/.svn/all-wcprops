@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/log
+END
+PlayerLogGetState.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/log/PlayerLogGetState.java
+END
+PlayerLogSetReadRewind.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/log/PlayerLogSetReadRewind.java
+END
+PlayerLogSetWriteState.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/log/PlayerLogSetWriteState.java
+END
+PlayerLogSetReadState.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/log/PlayerLogSetReadState.java
+END
+PlayerLogSetFilename.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/log/PlayerLogSetFilename.java
+END

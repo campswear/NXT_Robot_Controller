@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/java-player/!svn/ver/90/javaclient3/extra
+END
+HeadingControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/java-player/!svn/ver/90/javaclient3/extra/HeadingControl.java
+END
+PIDController.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/java-player/!svn/ver/90/javaclient3/extra/PIDController.java
+END
+PositionGeometryTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/java-player/!svn/ver/90/javaclient3/extra/PositionGeometryTools.java
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/java-player/!svn/ver/90/javaclient3/extra/Controller.java
+END
+PController.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/java-player/!svn/ver/90/javaclient3/extra/PController.java
+END
+PositionControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/java-player/!svn/ver/90/javaclient3/extra/PositionControl.java
+END
+PDController.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/java-player/!svn/ver/90/javaclient3/extra/PDController.java
+END
+PIController.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/java-player/!svn/ver/90/javaclient3/extra/PIController.java
+END

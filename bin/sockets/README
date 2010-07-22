@@ -1,0 +1,87 @@
+OVERVIEW
+--------
+
+This directory contains a set of sample client and server programs
+written in both C and Java. You can run any combination of client
+and server, e.g., Java client talking to C server or java client 
+talking to Java server.
+
+There should be six files in the directory:
+ README (this file)
+ makefile (input to unix "make" for building executables)
+ Client.java (Java client program)
+ Server.java (Java server program)
+ client.c (C client program)
+ server.c (C server program)
+
+
+HOW TO COMPILE 
+--------------
+Type:
+	$ make
+where "$" is the unix prompt.
+
+Note that there are differences if you are running under Linux or
+SunOS. The default setup is for Linux. If you are using SunOS, then
+edit the makefile (setting of LDFLAGS). Also edit client.c and
+server.c -- see comments for "socket_t" data type definition.
+
+
+
+HOW TO RUN
+----------
+
+First, start a server. Either:
+	$ java Server
+or
+	$ ./server
+
+When the server starts up, it will tell you its hostname (IP number)
+and the socket's port number. For example:
+ host=0.0.0.0/0.0.0.0
+ port=57906
+
+In another window (so you can see the interaction between the client
+and server clearly), start a client. Either:
+	$ ./client 57906
+where the socket's port number is 57906
+or
+	$ java Client localhost 57906
+Upon startup, the client will say:
+ enter message to send (q to quit):
+Note that the server will also say:
+ accepted a client!
+
+Then, enter a message in the client window, as instructed. For example:
+ enter message to send (q to quit): hello
+The client will respond with:
+ client: sending message [hello] 5
+ client: waiting for msg from server
+where 5 is the length of the input string ("hello").
+
+Then, the server will say:
+ server: read message [hello]
+ server: sending message [okay] 4
+and the client will respond:
+ client: read message [okay]
+ enter message to send (q to quit):
+
+In order to quit, type "q" at the client prompt. When the client
+quits, it will signal the server, which will also quit.
+
+These instructions will work for any combination of server and client
+(i.e., Java or C).
+
+
+INFORMATION
+-----------
+A nice Tutorial is available here:
+ http://www.cs.rpi.edu/courses/sysprog/sockets/sock.html
+
+
+
+Questions?
+contact Elizabeth Sklar (sklar@sci.brooklyn.cuny.edu)
+30nov2005.
+
+

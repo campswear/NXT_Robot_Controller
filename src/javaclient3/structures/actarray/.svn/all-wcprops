@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/actarray
+END
+PlayerActarrayHomeCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/actarray/PlayerActarrayHomeCmd.java
+END
+PlayerActarrayBrakesConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/actarray/PlayerActarrayBrakesConfig.java
+END
+PlayerActarrayActuator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/actarray/PlayerActarrayActuator.java
+END
+PlayerActarrayPowerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/actarray/PlayerActarrayPowerConfig.java
+END
+PlayerActarraySpeedCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/actarray/PlayerActarraySpeedCmd.java
+END
+PlayerActarraySpeedConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/actarray/PlayerActarraySpeedConfig.java
+END
+PlayerActarrayGeom.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/actarray/PlayerActarrayGeom.java
+END
+PlayerActarrayPositionCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/actarray/PlayerActarrayPositionCmd.java
+END
+PlayerActarrayData.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/actarray/PlayerActarrayData.java
+END
+PlayerActarrayActuatorgeom.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/actarray/PlayerActarrayActuatorgeom.java
+END

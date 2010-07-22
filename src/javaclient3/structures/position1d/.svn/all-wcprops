@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position1d
+END
+PlayerPosition1dData.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position1d/PlayerPosition1dData.java
+END
+PlayerPosition1dPositionPidReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position1d/PlayerPosition1dPositionPidReq.java
+END
+PlayerPosition1dVelocityModeConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position1d/PlayerPosition1dVelocityModeConfig.java
+END
+PlayerPosition1dCmdVel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position1d/PlayerPosition1dCmdVel.java
+END
+PlayerPosition1dSpeedProfReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position1d/PlayerPosition1dSpeedProfReq.java
+END
+PlayerPosition1dPositionModeReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position1d/PlayerPosition1dPositionModeReq.java
+END
+PlayerPosition1dPowerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position1d/PlayerPosition1dPowerConfig.java
+END
+PlayerPosition1dSetOdomReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position1d/PlayerPosition1dSetOdomReq.java
+END
+PlayerPosition1dCmdPos.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position1d/PlayerPosition1dCmdPos.java
+END
+PlayerPosition1dSpeedPidReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position1d/PlayerPosition1dSpeedPidReq.java
+END
+PlayerPosition1dGeom.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position1d/PlayerPosition1dGeom.java
+END
+PlayerPosition1dResetOdomConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position1d/PlayerPosition1dResetOdomConfig.java
+END

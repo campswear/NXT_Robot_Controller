@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/imu
+END
+PlayerIMUDataState.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/imu/PlayerIMUDataState.java
+END
+PlayerIMUDataCalib.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/imu/PlayerIMUDataCalib.java
+END
+PlayerIMUDataQuat.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/imu/PlayerIMUDataQuat.java
+END
+PlayerIMUDataEuler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/imu/PlayerIMUDataEuler.java
+END

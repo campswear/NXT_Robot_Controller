@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/ptz
+END
+PlayerPtzReqGeneric.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/ptz/PlayerPtzReqGeneric.java
+END
+PlayerPtzGeom.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/ptz/PlayerPtzGeom.java
+END
+PlayerPtzData.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/ptz/PlayerPtzData.java
+END
+PlayerPtzReqControlMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/ptz/PlayerPtzReqControlMode.java
+END
+PlayerPtzCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/ptz/PlayerPtzCmd.java
+END

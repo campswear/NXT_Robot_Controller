@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position3d
+END
+PlayerPosition3dGeom.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position3d/PlayerPosition3dGeom.java
+END
+PlayerPosition3dResetOdomConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position3d/PlayerPosition3dResetOdomConfig.java
+END
+PlayerPosition3dData.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position3d/PlayerPosition3dData.java
+END
+PlayerPosition3dPositionPidReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position3d/PlayerPosition3dPositionPidReq.java
+END
+PlayerPosition3dVelocityModeConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position3d/PlayerPosition3dVelocityModeConfig.java
+END
+PlayerPosition3dCmdVel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position3d/PlayerPosition3dCmdVel.java
+END
+PlayerPosition3dSpeedProfReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position3d/PlayerPosition3dSpeedProfReq.java
+END
+PlayerPosition3dPositionModeReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position3d/PlayerPosition3dPositionModeReq.java
+END
+PlayerPosition3dPowerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position3d/PlayerPosition3dPowerConfig.java
+END
+PlayerPosition3dSetOdomReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position3d/PlayerPosition3dSetOdomReq.java
+END
+PlayerPosition3dCmdPos.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position3d/PlayerPosition3dCmdPos.java
+END
+PlayerPosition3dSpeedPidReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/position3d/PlayerPosition3dSpeedPidReq.java
+END

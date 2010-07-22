@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/limb
+END
+PlayerLimbBrakesReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/limb/PlayerLimbBrakesReq.java
+END
+PlayerLimbGeomReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/limb/PlayerLimbGeomReq.java
+END
+PlayerLimbPowerReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/limb/PlayerLimbPowerReq.java
+END
+PlayerLimbSetpositionCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/limb/PlayerLimbSetpositionCmd.java
+END
+PlayerLimbSetposeCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/limb/PlayerLimbSetposeCmd.java
+END
+PlayerLimbSpeedReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/limb/PlayerLimbSpeedReq.java
+END
+PlayerLimbVecmoveCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/limb/PlayerLimbVecmoveCmd.java
+END
+PlayerLimbData.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/limb/PlayerLimbData.java
+END
+PlayerLimbStopCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/limb/PlayerLimbStopCmd.java
+END
+PlayerLimbHomeCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/limb/PlayerLimbHomeCmd.java
+END

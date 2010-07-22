@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/localize
+END
+PlayerLocalizeSetPose.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/localize/PlayerLocalizeSetPose.java
+END
+PlayerLocalizeParticle.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/localize/PlayerLocalizeParticle.java
+END
+PlayerLocalizeGetParticles.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/localize/PlayerLocalizeGetParticles.java
+END
+PlayerLocalizeData.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/localize/PlayerLocalizeData.java
+END
+PlayerLocalizeHypoth.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/localize/PlayerLocalizeHypoth.java
+END

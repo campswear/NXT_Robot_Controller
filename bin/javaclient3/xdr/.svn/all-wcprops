@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr
+END
+XdrBufferDecodingStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrBufferDecodingStream.java
+END
+OncRpcException.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/OncRpcException.java
+END
+XdrBytes.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrBytes.java
+END
+XdrDecodingStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrDecodingStream.java
+END
+XdrUnion.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrUnion.java
+END
+XdrOpaque.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrOpaque.java
+END
+XdrInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrInt.java
+END
+XdrBufferEncodingStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrBufferEncodingStream.java
+END
+XdrLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrLong.java
+END
+XdrDynamicOpaque.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrDynamicOpaque.java
+END
+XdrShort.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrShort.java
+END
+XdrVoid.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrVoid.java
+END
+XdrEncodingStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrEncodingStream.java
+END
+XdrByte.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrByte.java
+END
+XdrAble.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrAble.java
+END
+XdrFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrFloat.java
+END
+XdrString.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrString.java
+END
+XdrDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrDouble.java
+END
+XdrChar.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrChar.java
+END
+XdrBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/java-player/!svn/ver/90/javaclient3/xdr/XdrBoolean.java
+END

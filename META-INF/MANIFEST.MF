@@ -1,0 +1,354 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+X-COMMENT: Main-Class will be added automatically by build
+Class-Path: 
+Created-By: 1.6.0_02-ea-b02 (Sun Microsystems Inc.)
+
+Name: org/neuroph/core/input/InputFunction.class
+SHA1-Digest: FODRvhLtUslufAtPGEjHREWh0v4=
+
+Name: org/neuroph/core/input/And.class
+SHA1-Digest: Iytb4PEpgEPddHbC1iWvoac/ryc=
+
+Name: org/neuroph/nnet/RbfNetwork.class
+SHA1-Digest: 6htUaARm9SLVZMX9eM4PnQBVYnY=
+
+Name: org/neuroph/core/Connection.class
+SHA1-Digest: njtfP159Hh141oh4OOkU+ZOZswI=
+
+Name: org/neuroph/util/Properties.class
+SHA1-Digest: MGHXppduZC+38kWhCM4dC7on9p4=
+
+Name: org/neuroph/util/WeightsFunctionType$1.class
+SHA1-Digest: ZxGoNWU6ValvLguepW609GR2+W4=
+
+Name: org/neuroph/util/ConnectionFactory.class
+SHA1-Digest: hpCwMp01nullgvu8V+YwP9VOes4=
+
+Name: org/neuroph/nnet/comp/DelayedConnection.class
+SHA1-Digest: vNro98CMhpmgTaQMpvFLgOb45LY=
+
+Name: org/neuroph/samples/stockmarket/StockTrainingSetImport.class
+SHA1-Digest: OtVz4mcSYYwe1FgPzA1GBl3dZLc=
+
+Name: org/neuroph/core/Neuron.class
+SHA1-Digest: qxfsz/nC70hPVK5VqLy4xjlgn+s=
+
+Name: org/neuroph/nnet/Outstar.class
+SHA1-Digest: PhdlJxai7LqBc3ukxTqBeJaFbCY=
+
+Name: org/neuroph/nnet/comp/DelayedNeuron.class
+SHA1-Digest: Ux8e6nu5nYKPu3+tJZDMY2i4utY=
+
+Name: org/neuroph/nnet/comp/CompetitiveLayer.class
+SHA1-Digest: PAgHVjed0hEGNiz9ctlt7OYtQGw=
+
+Name: org/neuroph/nnet/learning/UnsupervisedHebbianLearning.class
+SHA1-Digest: 0Al6XmnOsCMavJxgZ04TM2ETNus=
+
+Name: org/neuroph/core/transfer/Step.class
+SHA1-Digest: O0SvLwRMjoTpUOYE2HgOJbWCLoA=
+
+Name: org/neuroph/util/plugins/LabelsPlugin.class
+SHA1-Digest: ieq0zAnH2iAr17ASTImcchFoaWU=
+
+Name: org/neuroph/util/TransferFunctionType.class
+SHA1-Digest: AYcY3YgZuefm3ToU+EqPuxVYG5I=
+
+Name: org/neuroph/contrib/imgrec/ImageRecognitionSample.class
+SHA1-Digest: OCKw0yIU/6C6Tt1H6ofrhpZG6wg=
+
+Name: org/neuroph/core/input/Intensity.class
+SHA1-Digest: JOuAcSIF1YxjGMn3mCX/vnFon00=
+
+Name: org/neuroph/util/VectorParser.class
+SHA1-Digest: nP1GObd76viwsH9qjlofuR9HE5w=
+
+Name: org/neuroph/contrib/ocr/OcrHelper.class
+SHA1-Digest: 0/jS7xE3HFIvpy+Vsq6yjYniNqk=
+
+Name: org/neuroph/contrib/IACFunction.class
+SHA1-Digest: RhCYEQe2kuhyMKjkainQdxDCq74=
+
+Name: org/neuroph/nnet/learning/MomentumBackpropagation.class
+SHA1-Digest: YCsaSwe4GlM00a2AxlYKzGxJIbc=
+
+Name: org/neuroph/util/LayerFactory.class
+SHA1-Digest: XYAnWpqAPvpKoD+M3KYx9kX6IKk=
+
+Name: org/neuroph/samples/XorMultiLayerPerceptronSample.class
+SHA1-Digest: ZG4RXzY/d3vUPNeKMtvCs6r6gqs=
+
+Name: org/neuroph/nnet/UnsupervisedHebbianNetwork.class
+SHA1-Digest: yhAT7oPHn0CnkjPgu78t8Jytmvs=
+
+Name: org/neuroph/contrib/imgrec/ColorMode.class
+SHA1-Digest: 3XQ0Rx13wqOgVW/9V/NB86FWAWk=
+
+Name: org/neuroph/contrib/imgrec/ImageRecognitionHelper.class
+SHA1-Digest: xvI4Patb25ws5do90SdSMurCU9I=
+
+Name: org/neuroph/core/transfer/Sgn.class
+SHA1-Digest: V5Q3urFDZ7b9EtC8cVI/+BE4y1A=
+
+Name: org/neuroph/nnet/learning/LMS.class
+SHA1-Digest: Y2yk4AC04jaOq9/U0eB41gH2RLA=
+
+Name: org/neuroph/core/input/Sum.class
+SHA1-Digest: esU6HQGhFnfzEC2hg/CsW8qEqt4=
+
+Name: org/neuroph/samples/stockmarket/Main.class
+SHA1-Digest: fjCqvoTH6+enBnyVnxOeKo1xI6A=
+
+Name: org/neuroph/nnet/Adaline.class
+SHA1-Digest: Nnk6Y/Gmuo/3YC47xwAtVG972PY=
+
+Name: org/neuroph/core/transfer/TransferFunction.class
+SHA1-Digest: /Qjc9AhFPjWK60h1Zpy5ygxS7+E=
+
+Name: org/neuroph/core/transfer/Tanh.class
+SHA1-Digest: FVtrQn7TzXUWs7ISE6JNwYX8pIc=
+
+Name: org/neuroph/core/Layer.class
+SHA1-Digest: N1ITgxLmIGiNasfi/7MNHHhKJ8s=
+
+Name: org/neuroph/core/learning/SupervisedLearning.class
+SHA1-Digest: GZ84uPPTF8McNI/905CE8QM5f2E=
+
+Name: org/neuroph/nnet/MaxNet.class
+SHA1-Digest: F6UI5DzC7uEKxoWHYJZM+kMGti0=
+
+Name: org/neuroph/util/NeuralNetworkType.class
+SHA1-Digest: riay5I/mXeUL35PC5mK57D0l4KU=
+
+Name: org/neuroph/util/NeuralNetworkFactory.class
+SHA1-Digest: xK8qurHgMQN1qY3SRX7peQ/aVhI=
+
+Name: org/neuroph/util/FileUtils.class
+SHA1-Digest: jEy6wa+QeOEDb9kqmDT76xb/Kx8=
+
+Name: org/neuroph/core/input/Product.class
+SHA1-Digest: cOPnigtQoQo7vHimHA1JfhGZyZw=
+
+Name: org/neuroph/nnet/comp/BiasNeuron.class
+SHA1-Digest: t+4xpAtgsEP2vg8m1cjKaz/Ic1k=
+
+Name: org/neuroph/core/learning/UnsupervisedLearning.class
+SHA1-Digest: OLFif89dQmCOBuTREwzc0laOXpQ=
+
+Name: org/neuroph/samples/timeseries/GenerateSet.class
+SHA1-Digest: qUEZvxaeCfU2kODbaW/WlHYysOM=
+
+Name: org/neuroph/nnet/comp/CompetitiveNeuron.class
+SHA1-Digest: LwxEl0srBBSAf1ilEzeera4M2U0=
+
+Name: org/neuroph/nnet/Hopfield.class
+SHA1-Digest: Z7wTbZZingngkZZTevdRUaaCU3k=
+
+Name: org/neuroph/nnet/MultiLayerPerceptron.class
+SHA1-Digest: Y3a/jqDNeYKs2S2mbqsU3FNKHSc=
+
+Name: org/neuroph/contrib/ocr/OcrUtils.class
+SHA1-Digest: kANUdf5xb2idpIEv34wdJiCQrI4=
+
+Name: org/neuroph/core/transfer/Gaussian.class
+SHA1-Digest: tHcC1p5PgRkSL/6cos5IQy1bDXI=
+
+Name: org/neuroph/core/input/Min.class
+SHA1-Digest: SEKexBeAZIdX+eukpSNJJgydNkQ=
+
+Name: org/neuroph/nnet/learning/OutstarLearning.class
+SHA1-Digest: eByZ9f8wVL6jUDEhDONwNAo32vM=
+
+Name: org/neuroph/nnet/learning/SupervisedHebbianLearning.class
+SHA1-Digest: Ajqz9cf9YndRzopAelFg+nlk/4w=
+
+Name: org/neuroph/core/input/Max.class
+SHA1-Digest: b6KyHlHAxE/nrRgXclCJLItvO6A=
+
+Name: org/neuroph/nnet/learning/OjaLearning.class
+SHA1-Digest: DuIOjrpMXM2oypIxE7CQKkUwir4=
+
+Name: org/neuroph/contrib/IACNetwork.class
+SHA1-Digest: BV4GSCz5Mdt5ldrJgrmoG3pPIQ0=
+
+Name: org/neuroph/nnet/learning/CompetitiveLearning.class
+SHA1-Digest: GeFZTmsAEKa+jQHa/lX8LkKDe6g=
+
+Name: org/neuroph/util/NeuronProperties.class
+SHA1-Digest: crI4/GIvrGgEGxPhxn4SXC1NcK8=
+
+Name: org/neuroph/nnet/learning/BackPropagation.class
+SHA1-Digest: 3ouaNwOH95mUC/wABav+xCC0y8U=
+
+Name: org/neuroph/nnet/learning/KohonenLearning.class
+SHA1-Digest: I5F8xfYhTHgVvRIpoJcu8tmWnyk=
+
+Name: org/neuroph/nnet/learning/PerceptronLearning.class
+SHA1-Digest: oNVWe4pTeiRjTU0nAXZEO13NwAk=
+
+Name: org/neuroph/util/SummingFunctionType.class
+SHA1-Digest: aAqu8I7P/XSRoh31e055CxPoNHk=
+
+Name: org/neuroph/nnet/SupervisedHebbianNetwork.class
+SHA1-Digest: M9B0YLnnLkhvRr1/3BKra7rqef0=
+
+Name: org/neuroph/core/input/Or.class
+SHA1-Digest: t1I83VDzrUjLa3DhlNMabtPxrcE=
+
+Name: org/neuroph/nnet/ModularNetwork.class
+SHA1-Digest: wAY5zfc9qF2j8z+hit0Dvgips/Y=
+
+Name: org/neuroph/nnet/comp/ThresholdNeuron.class
+SHA1-Digest: JjPWdVPA+0tBpYzoRNrpsEjGxp8=
+
+Name: org/neuroph/nnet/Instar.class
+SHA1-Digest: 9PxmGtx8WOMD4q/4+T4iDYlP4hE=
+
+Name: org/neuroph/core/input/WeightedInput.class
+SHA1-Digest: TL637lDtKYg0w8LEY/O1WCcGvbo=
+
+Name: org/neuroph/contrib/ocr/OcrPlugin.class
+SHA1-Digest: 3IvLBjY5XfgdZu3NiK0LdlHYONQ=
+
+Name: org/neuroph/nnet/BAM.class
+SHA1-Digest: BccMq36zfGSi25xDR1Fiu1PpT5M=
+
+Name: org/neuroph/util/NeuronFactory.class
+SHA1-Digest: 8z8AbOdvEAog7xjxgXo6Oui6QLk=
+
+Name: org/neuroph/nnet/CompetitiveNetwork.class
+SHA1-Digest: zWQEeEEOV9IDueo9c90eNCWzT8E=
+
+Name: org/neuroph/core/learning/TrainingSet.class
+SHA1-Digest: WGuu4mHlciBVtVVmkFYPq8XrYNQ=
+
+Name: org/neuroph/contrib/imgrec/ImageSizeMismatchException.class
+SHA1-Digest: Wo3dmx19Hw9PbeCo3rGutfuAjOs=
+
+Name: org/neuroph/samples/HopfieldSample.class
+SHA1-Digest: ZXwrqVw/5X3fHu54YlIN6KAYq9M=
+
+Name: org/neuroph/contrib/IACNeuron.class
+SHA1-Digest: eSgo834Nm0ADAd1eru1S9QOHtAI=
+
+Name: org/neuroph/util/WeightsFunctionType.class
+SHA1-Digest: b1xy83wFNCzUvZiHKWMYefPTAg8=
+
+Name: org/neuroph/contrib/RecommenderNetwork.class
+SHA1-Digest: 8vT9zBbkLqMXSTjTLVO7ah+HBK0=
+
+Name: org/neuroph/core/exceptions/VectorSizeMismatchException.class
+SHA1-Digest: T5bl2Z5w8dYYo2qR8inqnhUQ8r4=
+
+Name: org/neuroph/core/transfer/Ramp.class
+SHA1-Digest: 0ejvBucnyJ+CuDxP6mqDbgggGR0=
+
+Name: org/neuroph/core/input/SummingFunction.class
+SHA1-Digest: 9/RVITBnmdvPwlWsHI0gASyyz6s=
+
+Name: org/neuroph/nnet/learning/InstarLearning.class
+SHA1-Digest: +sSq9Il7vtbNxbUKVrzS3dCU+MQ=
+
+Name: org/neuroph/core/input/Diference.class
+SHA1-Digest: 3YSwkkNwklaxQ7xJdcTbsXaqQJQ=
+
+Name: org/neuroph/core/NeuralNetwork.class
+SHA1-Digest: lyQA/bOB2K604/qhokoEQL1GEKY=
+
+Name: org/neuroph/nnet/NeuroFuzzyPerceptron.class
+SHA1-Digest: Ro0m7N51pG5+ohSCt97Y2Px6MDM=
+
+Name: org/neuroph/nnet/comp/InputOutputNeuron.class
+SHA1-Digest: sm/D0CIixJOtkZ9lkp4z1gOrtGY=
+
+Name: org/neuroph/core/input/WeightsFunction.class
+SHA1-Digest: xpV6KscVKXoPMn3VumWvsjpcNqA=
+
+Name: org/neuroph/nnet/Kohonen.class
+SHA1-Digest: OLcQ7KZzD+Q7sAOo099K0a5iX/8=
+
+Name: org/neuroph/util/plugins/PluginBase.class
+SHA1-Digest: F62on35myMi5hJ0TXtDhaJHB310=
+
+Name: org/neuroph/util/SummingFunctionType$1.class
+SHA1-Digest: rY/KHbvwNXvwrGaq4Vt+iCiYC0c=
+
+Name: org/neuroph/contrib/imgrec/FractionRgbData.class
+SHA1-Digest: N8zATp4SZXYyrDWJG/TiTrg/8uQ=
+
+Name: org/neuroph/core/input/SumSqr.class
+SHA1-Digest: R1gpVs695jDqIsEDLrADByJEuxQ=
+
+Name: org/neuroph/core/learning/TrainingElement.class
+SHA1-Digest: y5yJ7mJyp0akwBA6GySCYyHSjZ8=
+
+Name: org/neuroph/core/transfer/Linear.class
+SHA1-Digest: iCbDHaj2hUp5C8jc1j2vKvR3uFY=
+
+Name: org/neuroph/nnet/learning/SigmoidDeltaRule.class
+SHA1-Digest: 8x7F6XfA/ZXXPb4ZHvjaYbLEdGs=
+
+Name: org/neuroph/samples/stockmarket/StockSocketReader.class
+SHA1-Digest: TMH7BKNk03f3kIGbbuqVSJCbCDw=
+
+Name: org/neuroph/samples/timeseries/GenerateTrainingSets.class
+SHA1-Digest: rYwihghX9yav5EptTX1jcf27G3Q=
+
+Name: org/neuroph/core/transfer/Trapezoid.class
+SHA1-Digest: W0FGgqKbG22sDzY6jByzgKoLQps=
+
+Name: org/neuroph/nnet/learning/HopfieldLearning.class
+SHA1-Digest: ZD0R3jKUePL2w/OIEG1Jc7LE1ts=
+
+Name: org/neuroph/nnet/learning/BinaryDeltaRule.class
+SHA1-Digest: p6fgThOpll0+YJWflueRK5iIF4M=
+
+Name: org/neuroph/samples/timeseries/GenerateSineWave.class
+SHA1-Digest: sjOkM7Bb17zFPKiM/RmqwptP/3k=
+
+Name: org/neuroph/core/learning/SupervisedTrainingElement.class
+SHA1-Digest: WwYLYOX3Lt0iJKH+05fYZsITgKg=
+
+Name: org/neuroph/samples/PerceptronSample.class
+SHA1-Digest: A3G0s5Pu84PqHreaqsRyTsFDFKk=
+
+Name: org/neuroph/core/learning/LearningRule.class
+SHA1-Digest: LavxBbMG1+3evZ9XVy0chvzuiaw=
+
+Name: org/neuroph/core/Weight.class
+SHA1-Digest: pNAosAJQYaHxh1qaIQ/IUGB3z/U=
+
+Name: org/neuroph/nnet/learning/BinaryHebbianLearning.class
+SHA1-Digest: +K0mNCAzYaJkl70Sr/RgS1oKsro=
+
+Name: org/neuroph/samples/stockmarket/StockFileReader.class
+SHA1-Digest: 8osODrCJzVNfin/Dt8anhFaT+nw=
+
+Name: org/neuroph/core/learning/IterativeLearning.class
+SHA1-Digest: eF5LRvo5zv8OSOBGGUyfF3nXPrk=
+
+Name: org/neuroph/samples/stockmarket/TrainingData.class
+SHA1-Digest: CmFermmIiUZOFtuQkrmZvq1jJNs=
+
+Name: org/neuroph/nnet/learning/DynamicBackPropagation.class
+SHA1-Digest: Ca5UtzNdWuk1MA1pwiz/jhSNouE=
+
+Name: org/neuroph/util/TrainingSetImport.class
+SHA1-Digest: K6yegzX1zLkbcxeiUsD5ZQ8H2/0=
+
+Name: org/neuroph/util/TransferFunctionType$1.class
+SHA1-Digest: BVj4mj7x0wQ4bSRIEmwf9y12Xss=
+
+Name: org/neuroph/nnet/Perceptron.class
+SHA1-Digest: o1s704ifPj9EAqioXiIoLP82QyM=
+
+Name: org/neuroph/contrib/imgrec/ImageRecognitionPlugin.class
+SHA1-Digest: 5ysW1cHet6l6R5vssI8MJ7pplgs=
+
+Name: org/neuroph/core/transfer/Sigmoid.class
+SHA1-Digest: PWCboSKCk9VQDTwGpbhMaECdeFk=
+
+Name: org/neuroph/contrib/imgrec/ImageSampler.class
+SHA1-Digest: t/xd9KNPbNI8Mezki/g5wcGvwPE=
+

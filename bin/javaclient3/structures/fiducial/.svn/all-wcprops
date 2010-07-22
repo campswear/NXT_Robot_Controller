@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/fiducial
+END
+PlayerFiducialGeom.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/fiducial/PlayerFiducialGeom.java
+END
+PlayerFiducialData.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/fiducial/PlayerFiducialData.java
+END
+PlayerFiducialFov.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/fiducial/PlayerFiducialFov.java
+END
+PlayerFiducialId.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/fiducial/PlayerFiducialId.java
+END
+PlayerFiducialItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/fiducial/PlayerFiducialItem.java
+END

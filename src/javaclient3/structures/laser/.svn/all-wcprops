@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/laser
+END
+PlayerLaserPowerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/laser/PlayerLaserPowerConfig.java
+END
+PlayerLaserConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/laser/PlayerLaserConfig.java
+END
+PlayerLaserDataScanpose.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/laser/PlayerLaserDataScanpose.java
+END
+PlayerLaserGeom.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/laser/PlayerLaserGeom.java
+END
+PlayerLaserData.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/laser/PlayerLaserData.java
+END

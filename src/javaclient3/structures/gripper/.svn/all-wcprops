@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/gripper
+END
+PlayerGripperData.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/gripper/PlayerGripperData.java
+END
+PlayerGripperCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/gripper/PlayerGripperCmd.java
+END
+PlayerGripperGeom.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/java-player/!svn/ver/90/javaclient3/structures/gripper/PlayerGripperGeom.java
+END
